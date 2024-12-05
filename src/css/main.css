@@ -1,11 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 :root {
-  --generic-template-background: #f2f2f2;
+  --generic-template-background: #fff;
   --logo-width: 250px;
   --top-wrapper-space: 0;
   --primary-template-background: #04194c;
-  --light-template-background: #fff;
+  --light-template-background: #665252;
   --accordion-background-active: #2f84ed;
 }
 
